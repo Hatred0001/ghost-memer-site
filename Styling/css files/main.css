@@ -49,6 +49,1391 @@ body{
   display: none;
 }  
 
- .anime{
-   margin-top: 80%;
- }
+.gif-parent{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 5em;
+}
+
+
+.kid{
+  padding-left: 5em;
+}
+
+.kid-name{
+  display: inline-block;
+   text-align: left;
+   margin-left: -20em;
+}
+
+
+.bunny{
+  margin-left: 30em;
+}
+
+.bunny-name{
+  display: inline-block;
+  text-align: left;
+  margin-left: -20em;
+}
+
+
+
+.sense{
+  margin-left: 20em;
+}
+
+.sense-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.gif-parent-2{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+.pray{
+  padding-left: 5em;
+}
+
+.pray-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.kill-yourself{
+  margin-left: 20em;
+}
+
+.ky-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.Puppet{
+  width: 30em;
+  margin-left: 20em;
+  padding-right: 10em;
+}
+
+.Puppet-name{
+  display: inline-block;
+  margin-left: -30em;
+}
+
+.gif-parent-3{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.punch{
+  width: 30em;
+  padding-left:5em;
+}
+
+.punch-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.cry{
+  margin-left:20em;
+}
+
+.cry-name{
+  display: inline-block;
+  margin-left: -30em;
+}
+
+.depressed{
+  width: 25em;
+  margin-left:30em;
+}
+
+.yato-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.gif-parent-4{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.cat{
+  width: 30em;
+  padding-left:5em;
+}
+
+.cat-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.laugh{
+  margin-left:20em;
+}
+
+.laugh-name{
+  display: inline-block;
+  margin-left: -30em;
+}
+
+.whatever{
+  width: 25em;
+  margin-left:30em;
+}
+
+.whatever-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.gif-parent-5{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.opinion{
+  width: 30em;
+  padding-left:5em;
+}
+
+.opinion-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.think{
+  margin-left:20em;
+}
+
+.think-name{
+  display: inline-block;
+  margin-left: -30em;
+}
+
+.nahi{
+  width: 25em;
+  margin-left:30em;
+}
+
+.nahi-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.gif-parent-6{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.dance{
+  width: 30em;
+  padding-left:5em;
+}
+
+.dance-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.khopdi{
+  margin-left:20em;
+}
+
+.khopdi-name{
+  display: inline-block;
+  margin-left: -30em;
+}
+
+.buddy{
+  width: 25em;
+  margin-left:30em;
+}
+
+.buddy-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.gif-parent-7{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.aha{
+  width: 20em;
+  padding-left:8em;
+}
+
+.aha-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.pagal-hai-kya{
+  margin-left: 27em;
+}
+
+.pagal-name{
+  display: inline-block;
+  margin-left: -30em;
+}
+
+.kya{
+  width: 25em;
+  margin-left:30em;
+}
+
+.kya-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.gif-parent-8{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.bapuji{
+  width: 20em;
+  padding-left:8em;
+}
+
+.bapuji-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.selmon{
+  margin-left: 27em;
+}
+
+.selmon-name{
+  display: inline-block;
+  margin-left: -30em;
+}
+
+.theek{
+  width: 25em;
+  margin-left:30em;
+}
+
+.theek-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.gif-parent-9{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.jerry{
+  width: 25em;
+  padding-left:8em;
+}
+
+.jerry-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.evil{
+  width: 30em;
+  margin-left: 27em;
+}
+
+.evil-name{
+  display: inline-block;
+  margin-left: -30em;
+}
+
+.cute{
+  width: 25em;
+  margin-left:30em;
+}
+
+.cute-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.gif-parent-10{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.stress{
+  width: 25em;
+  padding-left:8em;
+}
+
+.stress-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.bye{
+  margin-left: 27em;
+}
+
+.bye-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.hungry{
+  width: 25em;
+  margin-left:30em;
+}
+
+.hungry-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.gif-parent-11{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.no-kid{
+  width: 25em;
+  padding-left:8em;
+}
+
+.no-kid-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.parrot{
+  margin-left: 22em;
+}
+
+.parrot-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.bura{
+  margin-left:15em;
+}
+
+.bura-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.gif-parent-12{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.okay{
+  width: 25em;
+  padding-left:8em;
+}
+
+.okay-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.doggo{
+  margin-left: 22em;
+}
+
+.doggo-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.death{
+  width: 30em;
+  margin-left:15em;
+}
+
+.death-name{
+  color: white;
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-13{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.night{
+  width: 25em;
+  padding-left:8em;
+}
+
+.night-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.petrol{
+  margin-left: 22em;
+}
+
+.petrol-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.angry{
+  width: 20em;
+  margin-left:15em;
+}
+
+.angry-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+
+.gif-parent-14{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.chappal{
+  width: 25em;
+  padding-left:8em;
+}
+
+.chappal-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.job{
+  margin-left: 22em;
+}
+
+.job-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.khatam{
+  width: 20em;
+  margin-left:15em;
+}
+
+.khatam-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-15{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.asked{
+  width: 25em;
+  padding-left:8em;
+}
+
+.asked-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.sorry{
+  margin-left: 22em;
+}
+
+.sorry-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.pat{
+  width: 20em;
+  margin-left:15em;
+}
+
+.pat-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+
+.gif-parent-16{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.masti{
+  width: 25em;
+  padding-left:8em;
+}
+
+.masti-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.coffin{
+  margin-left: 22em;
+}
+
+.coffin-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.gamer{
+  width: 20em;
+  margin-left:15em;
+}
+
+.gamer-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-17{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.awkward{
+  width: 25em;
+  padding-left:8em;
+}
+
+.awkward-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.lazy{
+  margin-left: 22em;
+}
+
+.lazy-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.karlo{
+  margin-left:15em;
+}
+
+.karlo-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-18{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.dream-11{
+  padding-left:8em;
+}
+
+.dream-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.kbc{
+  margin-left: 22em;
+}
+
+.kbc-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.rage{
+  width: 20em;
+  margin-left:15em;
+}
+
+.rage-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-19{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.please{
+  width: 25em;
+  padding-left:8em;
+}
+
+.please-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.maza{
+  margin-left: 22em;
+}
+
+.maza-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.joke{
+  margin-left:15em;
+}
+
+.joke-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-20{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.why{
+  width: 25em;
+  padding-left:8em;
+}
+
+.why-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.overacting{
+  margin-left: 22em;
+}
+
+.overacting-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.waiting{
+  width: 20em;
+  margin-left:15em;
+}
+
+.waiting-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-21{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.scheme{
+  width: 25em;
+  padding-left:8em;
+}
+
+.scheme-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.congo{
+  margin-left: 22em;
+}
+
+.congo-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.mirzapur{
+  margin-left:15em;
+}
+
+.mirzapur-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-22{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.wah{
+  padding-left:8em;
+}
+
+.wah-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.kal{
+  width: 23em;
+  margin-left: 22em;
+}
+
+.kal-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.takleef{
+  margin-left:20em;
+}
+
+.takleef-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-23{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.cheating{
+  padding-left:8em;
+}
+
+.cheating-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.hypocrisy{
+
+  margin-left: 18em;
+}
+
+.hypocrisy-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.bhidu{
+  margin-left:10em;
+}
+
+.bhidu-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-24{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.arnab{
+  padding-left:8em;
+}
+
+.arnab-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.bored{
+  margin-left: 18em;
+}
+
+.bored-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.nikal{
+  margin-left:10em;
+}
+
+.nikal-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-25{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.rajpal{
+  padding-left:8em;
+}
+
+.rajpal-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.expert{
+  margin-left: 15em;
+}
+
+.expert-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.panda{
+  margin-left:15em;
+}
+
+.panda-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-26{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.bday{
+  padding-left:8em;
+}
+
+.bday-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.kermit{
+  margin-left: 15em;
+}
+
+.kermit-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.oh{
+  margin-left:15em;
+}
+
+.oh-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-27{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.karna{
+  padding-left:8em;
+}
+
+.karna-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.gopi{
+  margin-left: 15em;
+}
+
+.gopi-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.yes{
+  margin-left:15em;
+}
+
+.yes-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-28{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.nana{
+  padding-left:8em;
+}
+
+.nana-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.peak{
+  margin-left: 15em;
+}
+
+.peak-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.die{
+  margin-left:15em;
+}
+
+.die-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+
+.gif-parent-30{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.kon{
+  padding-left:8em;
+}
+
+.kon-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.jod{
+  margin-left: 15em;
+}
+
+.jod-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.gao{
+  margin-left:15em;
+}
+
+.gao-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-31{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.slap{
+  padding-left:8em;
+}
+
+.slap-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.bro{
+  margin-left: 15em;
+}
+
+.bro-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.crackers{
+  width: 25em;
+  margin-left:20em;
+}
+
+.crackers-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-32{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.love{
+  padding-left:8em;
+}
+
+.love-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.thumb{
+  margin-left: 15em;
+}
+
+.thumb-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.jabba{
+  margin-left:15em;
+}
+
+.jabba-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-33{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.moshi{
+  padding-left:8em;
+}
+
+.moshi-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.munna{
+  margin-left: 15em;
+}
+
+.munna-name{
+  color: white;
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.zinda{
+  margin-left:15em;
+}
+
+.zinda-name{
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-34{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.scared{
+  padding-left:8em;
+}
+
+.scared-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.zulm{
+  margin-left: 15em;
+}
+
+.zulm-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.baat{
+  margin-left:15em;
+}
+
+.baat-name{
+  color: white;
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-35{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.rock{
+  padding-left:8em;
+}
+
+.rock-name{
+  color: white;
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.bunny-no{
+  margin-left: 15em;
+}
+
+.bunny-no-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.zyada{
+  margin-left:15em;
+}
+
+.zyada-name{
+  color: white;
+  display: inline-block;
+  margin-left: -15em;
+}
+
+
+.gif-parent-36{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.stonks{
+  padding-left:8em;
+}
+
+.stonks-name{
+  color: white;
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.so{
+  margin-left: 15em;
+}
+
+.so-name{
+  color: white;
+  display: inline-block;
+  margin-left: -16em;
+}
+
+.johhny{
+  margin-left:20em;
+}
+
+.johhny-name{
+  color: white;
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-36{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.stonks{
+  padding-left:8em;
+}
+
+.stonks-name{
+  color: white;
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.so{
+  margin-left: 15em;
+}
+
+.so-name{
+  color: white;
+  display: inline-block;
+  margin-left: -16em;
+}
+
+.johhny{
+  margin-left:20em;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+}
+
+.johhny-name{
+  color: white;
+  display: inline-block;
+  margin-left: -15em;
+}
+
+.gif-parent-37{
+  display:flex;
+  flex-direction:column;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8em;
+}
+
+.chala{
+  padding-left:8em;
+}
+
+.chala-name{
+  color: white;
+  display: inline-block;
+  margin-left: -20em;
+}
+
+.go{
+  margin-left: 15em;
+}
+
+.go-name{
+  color: white;
+  display: inline-block;
+  margin-left: -16em;
+}
+
+.ket{
+  margin-left:12em;
+}
+
+.ket-name{
+  display: inline-block;
+  margin-left: -20em;
+}
+
